@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\quraan-castle-api.props" />
+</Project>
